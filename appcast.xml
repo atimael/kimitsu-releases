@@ -3,6 +3,18 @@
     <channel>
         <title>Kimitsu</title>
         <item>
+            <title>1.0.2</title>
+            <pubDate>Thu, 23 Jul 2026 23:08:53 +0200</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/atimael/kimitsu-releases/releases/latest/download/Kimitsu-1.0.2.zip" length="15831449" type="application/octet-stream" sparkle:edSignature="UtIvQbUvHj6CQgWASaxj7dfgnD5/p5ptZJMiH/n647Gz1cROFKg66XWRt0yC0HhZm6qtTotXsTXun6qTkL+qAw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/atimael/kimitsu-releases/releases/latest/download/Kimitsu3-2.delta" sparkle:deltaFrom="2" length="21266" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="jpPEHZUecaJv0A7KPqchGQGT5QDbiulvvNfIsXcOl7ADTTPGNFnaFj4TTU0HGeV+ZPuQxunZPPAxUYzTr9qXBA=="/>
+                <enclosure url="https://github.com/atimael/kimitsu-releases/releases/latest/download/Kimitsu3-1.delta" sparkle:deltaFrom="1" length="1771754" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="SvVBZa+5UUFMxCgfCWDQ82BoJy7e0xD6bCLPZV1rS4noLgj8I5P7TlK++Qowts2AHd84Pv/OqnKNfPQmZ6wiAA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.1</title>
             <pubDate>Thu, 23 Jul 2026 19:30:04 +0200</pubDate>
             <sparkle:version>2</sparkle:version>
