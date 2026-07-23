@@ -8,7 +8,7 @@
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/atimael/kimitsu-releases/releases/latest/download/Kimitsu-1.0.1.zip" length="15824325" type="application/octet-stream" sparkle:edSignature="FBEQ41+GOaIN7SU8wcqkSYLxoatGWA86cjWW2A3TaefETXG6EssrRsNHjj4RVFZf7rxwS1hENyB1kBxW6K3sAA=="/>
+            <enclosure url="https://github.com/atimael/kimitsu-releases/releases/latest/download/Kimitsu-1.0.1.zip" length="15831451" type="application/octet-stream" sparkle:edSignature="Ft+FYA3DPKVVhqaXrC7TZfjrSAFi/b75754VV77x8e+wLuiaQtsMY31x0uq2bHnFlEJ8K3QXVj9Uh1e0NJG7CA=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/atimael/kimitsu-releases/releases/latest/download/Kimitsu2-1.delta" sparkle:deltaFrom="1" length="1728802" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="gETKyVg9hNtoRWiELn2HoDOHqJ3arVnA++Nor58Vps+gtpz1A1l3TV75u5wr/UHQ5CecCRW5mpIeaM7LPkC9CQ=="/>
             </sparkle:deltas>
