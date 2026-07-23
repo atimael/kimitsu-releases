@@ -3,6 +3,17 @@
     <channel>
         <title>Kimitsu</title>
         <item>
+            <title>1.0.1</title>
+            <pubDate>Thu, 23 Jul 2026 19:30:04 +0200</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/atimael/kimitsu-releases/releases/latest/download/Kimitsu-1.0.1.zip" length="15824188" type="application/octet-stream" sparkle:edSignature="zisARDh1lfceCa8X0gBJBkKUsGq3ZJZLwbn+Hu/zolroI5QgbSH2X8aCB9QqORfHoUPZ8zKTMm8j+VT3phcAAA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/atimael/kimitsu-releases/releases/latest/download/Kimitsu2-1.delta" sparkle:deltaFrom="1" length="1728802" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="gETKyVg9hNtoRWiELn2HoDOHqJ3arVnA++Nor58Vps+gtpz1A1l3TV75u5wr/UHQ5CecCRW5mpIeaM7LPkC9CQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0</title>
             <pubDate>Wed, 22 Jul 2026 22:29:42 +0200</pubDate>
             <sparkle:version>1</sparkle:version>
